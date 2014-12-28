@@ -359,17 +359,12 @@ float: right;
 #slide4 {
     background-color: transparent;
     background-image: url("../img/slide4-1.jpg");
-    background-repeat: repeat;
     background-attachment: scroll;
-    background-position: 0% 0%;
-    background-clip: border-box;
-    background-origin: padding-box;
     background-size: cover !important;
 }
 .slids {
     background-attachment: fixed !important;
     height: 100%;
-    position: relative;
     padding: 0px;
     margin-right: 40px;
 }
